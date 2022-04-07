@@ -1,0 +1,10 @@
+*.so
+mstats
+mstats-libc
+mreplace
+
+samples/*
+!samples/*.*
+
+testers/*
+!testers/*.*
